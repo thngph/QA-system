@@ -1,0 +1,19 @@
+container:
+  type: ColumnPanel
+  properties: {col_widths: '{"CHGLWX":20}'}
+components:
+- type: Label
+  properties: {role: null, align: left, tooltip: '', border: '', foreground: '', visible: true,
+    text: '', font_size: null, font: '', spacing_above: small, icon_align: left, spacing_below: small,
+    italic: false, background: '', bold: false, underline: false, icon: ''}
+  name: context
+  layout_properties: {grid_position: 'IYBIEY,RKCHAB'}
+- type: Label
+  properties: {role: null, align: right, tooltip: '', border: '', foreground: '',
+    visible: true, text: '', font_size: null, font: '', spacing_above: small, icon_align: left,
+    spacing_below: small, italic: false, background: '', bold: false, underline: false,
+    icon: ''}
+  name: answer
+  layout_properties: {grid_position: 'IYBIEY,CHGLWX'}
+is_package: true
+item_type: {table_id: null}

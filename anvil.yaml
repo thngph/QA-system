@@ -1,0 +1,11 @@
+dependencies: []
+services: []
+package_name: R_QA
+allow_embedding: false
+name: R-QA
+runtime_options: {version: 2, client_version: '3', server_version: python3-sandbox,
+  server_spec: null}
+metadata: {}
+startup_form: Form1
+db_schema: {}
+renamed: true
