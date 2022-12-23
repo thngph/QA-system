@@ -2,11 +2,18 @@
 
 **DS310** - NLP final project
 
+Keywords: *NLP, Information Retrieval, Machine Reading, QA system*
+
 **Team size:** 2
 
 **Task:** QA
 
 **Domain:** Vietnamese Wikipedia Articles
+
+**Components:**
+
+ * **Retriever:** Elasticsearch/Bi-Encoder + Cross-Encoder
+ * **Reader:** BERT-like models
 
 ## Screens
 :warning:
