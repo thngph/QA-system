@@ -39,13 +39,10 @@ Answer & proofs:
 ## Web application workflow
 <!-- ![hinh5](https://user-images.githubusercontent.com/67597758/209297876-37cda9af-c3eb-4f91-a0fb-c3c39d1ef722.png) -->
 
-[<img src="https://user-images.githubusercontent.com/67597758/209297876-37cda9af-c3eb-4f91-a0fb-c3c39d1ef722.png"
-      width="750"/>](https://user-images.githubusercontent.com/67597758/209297876-37cda9af-c3eb-4f91-a0fb-c3c39d1ef722.png)
+[<img src="https://user-images.githubusercontent.com/67597758/209301285-043d3598-9b07-4d02-b5b1-521c17e8c163.png"
+      width="750"/>](https://user-images.githubusercontent.com/67597758/209301285-043d3598-9b07-4d02-b5b1-521c17e8c163.png)
 
 ## How QA system works
-
-<!-- ![Picture2](https://user-images.githubusercontent.com/67597758/209298448-0783dbb7-c614-4258-9ad3-34ec82e98e22.png
-) -->
 
 [<img src="https://user-images.githubusercontent.com/67597758/209298448-0783dbb7-c614-4258-9ad3-34ec82e98e22.png" width="750"/>](https://user-images.githubusercontent.com/67597758/209298448-0783dbb7-c614-4258-9ad3-34ec82e98e22.png)
 
