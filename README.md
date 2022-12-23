@@ -2,7 +2,7 @@
 
 **DS310** - NLP final project
 
-Keywords: *NLP, Information Retrieval, Machine Reading, QA system*
+**Keywords:** *NLP, Information Retrieval, Machine Reading, QA system*
 
 **Team size:** 2
 
