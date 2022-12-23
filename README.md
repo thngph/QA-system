@@ -14,7 +14,12 @@
 
  * **Retriever:** Elasticsearch/Bi-Encoder + Cross-Encoder
  * **Reader:** BERT-like models
+ 
+**Directory:**
 
+> QA-system/anvil: anvil server code
+
+> QA-system/jpt-notebook: Google Colab Notebooks    
 ## Screens
 :warning:
 
