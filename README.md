@@ -32,12 +32,17 @@ Answer & proofs:
 
 
 ## Web application workflow
+<!-- ![hinh5](https://user-images.githubusercontent.com/67597758/209297876-37cda9af-c3eb-4f91-a0fb-c3c39d1ef722.png) -->
 
-[<img src="https://user-images.githubusercontent.com/67597758/209291844-b23fcd03-4958-49e6-b2d6-b2bff776491c.png" width="750"/>](https://user-images.githubusercontent.com/67597758/209291844-b23fcd03-4958-49e6-b2d6-b2bff776491c.png)
+[<img src="https://user-images.githubusercontent.com/67597758/209297876-37cda9af-c3eb-4f91-a0fb-c3c39d1ef722.png"
+      width="750"/>](https://user-images.githubusercontent.com/67597758/209297876-37cda9af-c3eb-4f91-a0fb-c3c39d1ef722.png)
 
 ## How QA system works
 
-[<img src="https://user-images.githubusercontent.com/67597758/209292249-8ec611f3-bb01-4262-a3bb-3643e69cf570.png" width="750"/>](https://user-images.githubusercontent.com/67597758/209292249-8ec611f3-bb01-4262-a3bb-3643e69cf570.png)
+<!-- ![Picture2](https://user-images.githubusercontent.com/67597758/209298448-0783dbb7-c614-4258-9ad3-34ec82e98e22.png
+) -->
+
+[<img src="https://user-images.githubusercontent.com/67597758/209298448-0783dbb7-c614-4258-9ad3-34ec82e98e22.png" width="750"/>](https://user-images.githubusercontent.com/67597758/209298448-0783dbb7-c614-4258-9ad3-34ec82e98e22.png)
 
 ## Report & system performance
 *update later*
