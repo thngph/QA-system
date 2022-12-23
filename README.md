@@ -17,9 +17,9 @@
  
 **Directory:**
 
-> QA-system/anvil: anvil server code
+* QA-system/anvil: anvil server code
 
-> QA-system/jpt-notebook: Google Colab Notebooks    
+* QA-system/jpt-notebook: Google Colab Notebooks    
 ## Screens
 :warning:
 
