@@ -23,7 +23,7 @@
 ## Screens
 :warning:
 
-Actual Retrieval + QA process should be **less than 8 seconds**; however, there's transmitting delay among anvil server and Google Colab Notebook, each query usually takes appx 1 minute in total.
+Actual Retrieval + QA process should be **less than 8 seconds**; however, there's transmission delay among anvil server and Google Colab Notebooks, each query usually takes appx 1 minute in total.
 
 
 Question processing:
